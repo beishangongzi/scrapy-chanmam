@@ -1,0 +1,57 @@
+[
+{
+    "domain": ".amap.com",
+    "expirationDate": 1650251436,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "UM_distinctid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "17c91612b721da-0630047e681c41-1a2f1c08-1fa400-17c91612b738b5",
+    "id": 1
+},
+{
+    "domain": "ct.amap.com",
+    "expirationDate": 1949886636,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_uab_collina",
+    "path": "/",
+    "sameSite": "None",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "163452663687043488753343",
+    "id": 2
+},
+{
+    "domain": "ct.amap.com",
+    "expirationDate": 1650251504,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CNZZDATA1279800237",
+    "path": "/",
+    "sameSite": "None",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1008620138-1634526234-%7C1634526234",
+    "id": 3
+},
+{
+    "domain": "ct.amap.com",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "SESSION",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "OGEwYjM4NWQtZGQ2NS00Y2JjLTk1NjctNGJmOTg4ODA5Mzlj",
+    "id": 4
+}
+]

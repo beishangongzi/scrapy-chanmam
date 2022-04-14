@@ -1,0 +1,9 @@
+Host: ct.amap.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Access-Token: [object Object]
+Referer: https://ct.amap.com/
+Cookie: UM_distinctid=17c91ce0621457-0f7d11a3ba6899-7b26675d-1fa400-17c91ce0622e59; CNZZDATA1279800237=1865221983-1634526234-%7C1634781097; cna=i+/zGar7JSACAW/MvxKlbBQK; isg=BO7uNpx4A7TiZXfQXab3Ayd0PE2w77LpIKcdSBi3u_Gs-4pVgHx3-56yt-8XOKoB; l=eBThz7NPgHJtm0a0BO5aourza779CIRVGkPzaNbMiInca1P5tF9OAOCLAPAMSdtf_tfFgetPC66dUdhwSkU_ljkDBeYBD9sYXYJ9-; tfstk=cQgFBu1nPiQ1kJUY-yayPSWyClqdaUcnZNPbxDXQaaCPRBZ4Usq5e5c3c5P52UEh.; SESSION=YmNkNzU5YmQtMGFlOS00YjdiLTljZTEtZjM3Zjk4MDQ5NGEy
